@@ -1,0 +1,27 @@
+https://somee.com/DOKA/DOLogin.aspx
+
+j3231556J
+
+Datebase name:	j775522
+ 	
+Supplied package ID:	SPID899702
+Managed product ID:	MPID3303485
+ 	
+MS SQL hosting plan:	MS SQL Plan "Novice"
+MS SQL Server version:	MS SQL 2016 Express
+ 	
+MS SQL Server address:	j775522.mssql.somee.com
+Login name:	j775522_SQLLogin_1
+Login password:	1v5rkqzjmg
+Connection string:	workstation id=j775522.mssql.somee.com;packet size=4096;user id=j775522_SQLLogin_1;pwd=1v5rkqzjmg;data source=j775522.mssql.somee.com;persist security info=False;initial catalog=j775522
+ 	 
+FTP address to backups:	j775522.backup.somee.com
+FTP username:	j775522
+ 	FTP credentials (Username and password) are the same as your Username and password.
+ 	 
+Data file size, Max/Used/Usage:	15MB / 8.00MB / 53.33%
+Log file size, Max/Used/Usage:	20MB / 8.00MB / 40.00%
+
+select * from information_schema.tables;
+select * from users;
+drop table users;
