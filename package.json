@@ -1,0 +1,19 @@
+{
+  "name": "people",
+  "version": "1.0.0",
+  "description": "for deploy to zeit now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ghoncharow",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.12.3"
+  },
+  "devDependencies": {
+    "tedious": "^6.3.0"
+  }
+}
